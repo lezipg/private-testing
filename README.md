@@ -2,6 +2,10 @@
 For private testing
 ## add
 
+| A | B |
+|---|---|
+|1  |2  |
+
 ```flowchart
 st=>start: Start:>http://www.google.com[blank]
 e=>end:>http://www.google.com
